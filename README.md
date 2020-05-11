@@ -1,6 +1,6 @@
 # HangManGameUSingPython
 
-######################### ############## Isnstallable File
+######################### ############## Installable File
 
 And Also if you want its executable file then downlad the .msi extension file and just install it and enjoy the project.
 
